@@ -980,7 +980,39 @@ nav img{
 }
 .social22{
   margin: auto;
-  margin-top: 3%;
+  margin-top: 1%;
   margin-left: 2%;
   border-radius: 8px;
+  width: 40%;
+  height: 560px;
+  box-shadow: 0 0 .2rem #fff,
+  0 0 .2rem #fff,
+  0 0 2rem #bc13fe,
+  0 0 0.8rem #bc13fe,
+  0 0 2.8rem #bc13fe,
+  inset 0 0 1.3rem #bc13fe;
+}
+.paragraph33{
+  color:rgb(205, 209, 255);
+  font-size: 21px;
+  text-align: justify;
+  flex-basis: 31%;
+  color: #fff;
+  background:  rgba(28, 51, 94, 0.596);
+  border-radius: 10px;
+  box-sizing: border-box;  
+  transform: translate (-50%, -50%);
+  text-align: center;
+  width: 53%;
+  height: 570px;
+  margin: auto;
+  margin-top: -41.7%;
+  margin-left: 45%;
+  padding: 2px 2px 2px 2px;
+  box-shadow: 0 0 .2rem #fff,
+  0 0 .2rem #fff,
+  0 0 2rem #bc13fe,
+  0 0 0.8rem #bc13fe,
+  0 0 2.8rem #bc13fe,
+  inset 0 0 1.3rem #bc13fe;
 }
